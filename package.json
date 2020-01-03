@@ -1,0 +1,18 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit by SkitDev for SCSS",
+  "main": "index.js",
+  "keywords": [],
+  "author": "SkitDev",
+  "license": "MIT",
+  "scripts": {
+    "watch": "gulp watch",
+    "compile": "gulp style"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
